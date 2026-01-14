@@ -2,7 +2,9 @@
 
 <div align="center">
   <img src="https://res.cloudinary.com/dfjuuwtr6/image/upload/v1767550276/Screenshot_2026-01-04_234059_gakrru.png" alt="EnviroMat Image" width="800" border-radius="40px"/>
+  
   <br/>
+  
   [![React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://reactjs.org/)
   [![Node.js](https://img.shields.io/badge/Node.js-Express-green.svg)](https://nodejs.org/)
   [![MongoDB](https://img.shields.io/badge/Database-MongoDB-green.svg)](https://mongodb.com/)
